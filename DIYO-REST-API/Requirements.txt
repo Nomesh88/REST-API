@@ -1,0 +1,19 @@
+For a API tobe RESTful:
+
+1. HTTP methods
+2.JSON output
+3.STATELESS
+4.CLIENT-SERVER independence
+5.URL/URI
+
+What exactly is REST means:
+    Representational State Transfer (REST) is a software architecture that imposes conditions on how an API should work.
+
+// dataset is taken from here :
+https://github.com/kylecs/jokes-dataset-json/blob/master/all.json
+
+// my task is to build a REST API 
+    Create GET route
+    Create GET specific route
+    ....
+
